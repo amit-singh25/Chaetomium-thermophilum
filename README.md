@@ -11,7 +11,7 @@ The Chaetomium is a thermophilic filamentous fungus, having the ability to grow 
 7. [dc-mega BLAST ( Version: 2.7.1+)](https://blast.ncbi.nlm.nih.gov/)
 8. [Blast2GO (Version 5.1.1)](http://docs.blast2go.com/)
 9. [blastx.](https://blast.ncbi.nlm.nih.gov/)
-10. [T-Coffee software](http://tcoffee.crg.cat/)
+10. [T-Coffee](http://tcoffee.crg.cat/)
 11. [phyloT](https://phylot.biobyte.de/)
 12. [pyfaidx python package](https://pypi.org/project/pyfaidx/)
 
