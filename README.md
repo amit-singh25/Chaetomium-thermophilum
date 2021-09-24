@@ -19,7 +19,7 @@ The Chaetomium is a thermophilic filamentous fungus, having the ability to grow 
 
 The data quality assessment of raw sequence data was checked using FastQC. 
 The reference genome of Chaetomium thermophilum was downloaded from the Ensemble genome browser and the raw reads were mapped to C.thermophilum reference genome using HISAT2 aligner. 
-StringTie uses a novel network flow algorithm as well as an optional de novo assembly step to assemble and quantitate full-length transcripts representing multiple splice variants for each gene locus. Therefore, mapped reads were further assembled separately using StringTie. Each assembled separate file was merged/union, thus reported as once in the combined.gtf output. 
+StringTie uses a novel network flow algorithm as well as an optional de novo assembly step to assemble and quantitate full-length transcripts representing multiple splice variants for each gene locus. Therefore, mapped reads were further assembled separately using StringTie. Each assembled separate file was merged/union, thus reported as one in the combined.gtf output. 
 This program is used to compare, merge, annotate and estimate the accuracy of one or more query files when compared with a reference annotation. The Gffcompare output reports various statistics related to the “accuracy” of the input transcripts when compared to reference annotation data. 
 
 The accuracy is calculated at various levels such as nucleotide, exon, intron, transcript, the gene for each input file. GffCompare tracks a "class code" value showing the relationship between a transfrag and the closest reference transcript of combined.gtf evaluating transcript discovery accuracy.
