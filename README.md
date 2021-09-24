@@ -22,5 +22,5 @@ To create the isoform annotation of novel transcriptional loci, we looked at the
 
 The sequence conservation analysis was performed using dc-mega BLAST among six different. Here we used all transcript (coding and non-coding).
 
-Additionally, functional annotation of C.thermophilum transcripts were analyzed using Blast2GO and local blastx and extracted Enzyme Commission numbers and Go term.
+Additionally, functional annotation such as "Enzyme Commission numbers" and "Go term" of C.thermophilum transcripts were analyzed using Blast2GO and local blastx. 
 
