@@ -4,7 +4,7 @@ The genomic and transcriptomic sequence data often interpreted by functional ann
 
 #### Software Used for the analysis
 
-1. Ensemble genome (version 2.8 )
+1. [Ensemble genome (version 2.8)](https://fungi.ensembl.org) 
 2. FastQC  (Version: 0.11.5)
 3. HISAT2(Version: 1.3.3b)
 4.Stringtie(v1.3.4 release)
