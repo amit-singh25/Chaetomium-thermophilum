@@ -15,3 +15,6 @@ The Chaetomium is a thermophilic filamentous fungus, having the ability to grow 
 11. [phyloT](https://phylot.biobyte.de/)
 12. [pyfaidx python package](https://pypi.org/project/pyfaidx/)
 
+#### Brief description of genome annotation pipeline  
+The data quality assessment of raw sequence data was checked using [FastQC (Version:0.11.5](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/).
+The reference genome of Chaetomium thermophilum was downloaded from Ensemble genome browser and the raw reads were mapped to C.thermophilum reference genome using [HISAT2 (Version:1.3.3b)](http://daehwankimlab.github.io/hisat2/) aligner. StringTie uses a novel network flow algorithm as well as an optional de novo assembly step to assemble and quantitate full-length transcripts representing multiple splice variants for each gene locus. The mapped reads were further assembled separately using StringTie.
