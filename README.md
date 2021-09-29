@@ -33,4 +33,4 @@ The sequence conservation analysis was performed using dc-mega BLAST among six d
 Additionally, functional annotation such as "Enzyme Commission numbers" and "Go term" of C.thermophilum transcripts were analyzed using Blast2GO and local blastx. 
 
 #### Reference 
-Singh , A.; Schermann, G.; Reislöhner, S.; Kellner, N.; Hurt , E.; Brunner, M. Global Transcriptome Characterization and Assembly of the Thermophilic Ascomycete Chaetomium thermophilum. Genes 2021, 12, 1549. https://doi.org/10.3390/genes12101549 
+Singh A, Schermann G, Reislöhner S, Kellner N, Hurt  E, Brunner M. Global Transcriptome Characterization and Assembly of the Thermophilic Ascomycete Chaetomium thermophilum. Genes. 2021; 12(10):1549. https://doi.org/10.3390/genes12101549 
