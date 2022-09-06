@@ -3,14 +3,14 @@ The Chaetomium is a thermophilic filamentous fungus, having the ability to grow 
 #### Software used for the analysis
 
 1. [Ensemble genome (version 2.8)](https://fungi.ensembl.org) 
-2. [FastQC (Version:0.11.5](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+2. [FastQC (Version:0.11.5)](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 3. [HISAT2 (Version:1.3.3b)](http://daehwankimlab.github.io/hisat2/)
 4. [Stringtie (v1.3.4 release)](https://ccb.jhu.edu/software/stringtie/)
 5. [GffCompare (Version:v0.10.1)](https://ccb.jhu.edu/software/stringtie/gffcompare.shtml)
 6. [CPC2](http://cpc2.gao-lab.org/)
 7. [dc-mega BLAST (Version:2.7.1+)](https://blast.ncbi.nlm.nih.gov/)
 8. [Blast2GO (Version 5.1.1)](http://docs.blast2go.com/)
-9. [blastx.](https://blast.ncbi.nlm.nih.gov/)
+9. [blastx](https://blast.ncbi.nlm.nih.gov/)
 10. [T-Coffee](http://tcoffee.crg.cat/)
 11. [phyloT](https://phylot.biobyte.de/)
 12. [pyfaidx python package](https://pypi.org/project/pyfaidx/)
